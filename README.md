@@ -46,27 +46,27 @@ This application provides banking solutions tailored for banks to efficiently ma
 ## 📸 Screenshots
 
 ### 1. Account Management Panel 
-![Create Account](screenshots/1(5).png)
+![Create Account](5.png)
 
 ---
 
 ### 2. Creating New Account
-![Account Details](screenshots/1(4).png)
+![Account Details](4.png)
 
 ---
 
 ### 3.Balance Enquiry
-![Deposit Money](screenshots/1(3).png)
+![Deposit Money](3.png)
 
 ---
 
 ### 4.  Depositing Money into an Account 
-![Withdraw Money](screenshots/1(2).png)
+![Withdraw Money](2.png)
 
 ---
 
 ### 5. Withdrawing Money Securely  
-![Transaction History](screenshots/1(1).png)
+![Transaction History](1.png)
 
 
 
